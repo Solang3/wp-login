@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/wp-login-react/static/js/runtime~main.fa12bf52.js"
   },
   {
-    "revision": "48985d54065d818b9cf0",
-    "url": "/wp-login-react/static/js/main.1dbecac4.chunk.js"
+    "revision": "cbc4a60c839859d62f48",
+    "url": "/wp-login-react/static/js/main.79fc90dd.chunk.js"
   },
   {
     "revision": "681b51057d74cfa8975d",
     "url": "/wp-login-react/static/js/2.65aa1cca.chunk.js"
   },
   {
-    "revision": "48985d54065d818b9cf0",
+    "revision": "cbc4a60c839859d62f48",
     "url": "/wp-login-react/static/css/main.95b4e836.chunk.css"
   },
   {
-    "revision": "12f08bc6583488f4b48c818602bb1533",
+    "revision": "719bdeb9322ca90cdba4c28722ffc275",
     "url": "/wp-login-react/index.html"
   }
 ];

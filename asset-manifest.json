@@ -1,13 +1,13 @@
 {
   "main.css": "/wp-login-react/static/css/main.95b4e836.chunk.css",
-  "main.js": "/wp-login-react/static/js/main.1dbecac4.chunk.js",
-  "main.js.map": "/wp-login-react/static/js/main.1dbecac4.chunk.js.map",
+  "main.js": "/wp-login-react/static/js/main.79fc90dd.chunk.js",
+  "main.js.map": "/wp-login-react/static/js/main.79fc90dd.chunk.js.map",
   "runtime~main.js": "/wp-login-react/static/js/runtime~main.fa12bf52.js",
   "runtime~main.js.map": "/wp-login-react/static/js/runtime~main.fa12bf52.js.map",
   "static/js/2.65aa1cca.chunk.js": "/wp-login-react/static/js/2.65aa1cca.chunk.js",
   "static/js/2.65aa1cca.chunk.js.map": "/wp-login-react/static/js/2.65aa1cca.chunk.js.map",
   "index.html": "/wp-login-react/index.html",
-  "precache-manifest.bc681e2ce5830abbb829671f3b273012.js": "/wp-login-react/precache-manifest.bc681e2ce5830abbb829671f3b273012.js",
+  "precache-manifest.8657b9ea45b54e4ee7617834304f6f0c.js": "/wp-login-react/precache-manifest.8657b9ea45b54e4ee7617834304f6f0c.js",
   "service-worker.js": "/wp-login-react/service-worker.js",
   "static/css/main.95b4e836.chunk.css.map": "/wp-login-react/static/css/main.95b4e836.chunk.css.map"
 }
