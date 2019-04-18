@@ -2,7 +2,7 @@
   "name": "wp-login-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://solang3.github.io/wp-login-react/.",
+  "homepage": "https://solang3.github.io/wp-login-react/",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
