@@ -1,17 +1,17 @@
 {
-  "main.css": "/wp-login-react/static/css/main.d26a4011.chunk.css",
-  "main.js": "/wp-login-react/static/js/main.1c281bf8.chunk.js",
-  "main.js.map": "/wp-login-react/static/js/main.1c281bf8.chunk.js.map",
+  "main.css": "/wp-login-react/static/css/main.6a6ffdf1.chunk.css",
+  "main.js": "/wp-login-react/static/js/main.23d1fa65.chunk.js",
+  "main.js.map": "/wp-login-react/static/js/main.23d1fa65.chunk.js.map",
   "runtime~main.js": "/wp-login-react/static/js/runtime~main.fa12bf52.js",
   "runtime~main.js.map": "/wp-login-react/static/js/runtime~main.fa12bf52.js.map",
   "static/css/2.fb8b118e.chunk.css": "/wp-login-react/static/css/2.fb8b118e.chunk.css",
   "static/js/2.d398a821.chunk.js": "/wp-login-react/static/js/2.d398a821.chunk.js",
   "static/js/2.d398a821.chunk.js.map": "/wp-login-react/static/js/2.d398a821.chunk.js.map",
   "index.html": "/wp-login-react/index.html",
-  "precache-manifest.bc0378449aa796ced01d93f422c7a608.js": "/wp-login-react/precache-manifest.bc0378449aa796ced01d93f422c7a608.js",
+  "precache-manifest.03c3e20c100060b40e3ff7c859d5bf94.js": "/wp-login-react/precache-manifest.03c3e20c100060b40e3ff7c859d5bf94.js",
   "service-worker.js": "/wp-login-react/service-worker.js",
   "static/css/2.fb8b118e.chunk.css.map": "/wp-login-react/static/css/2.fb8b118e.chunk.css.map",
-  "static/css/main.d26a4011.chunk.css.map": "/wp-login-react/static/css/main.d26a4011.chunk.css.map",
+  "static/css/main.6a6ffdf1.chunk.css.map": "/wp-login-react/static/css/main.6a6ffdf1.chunk.css.map",
   "static/media/mdb.scss": "/wp-login-react/static/media/arrow_right.8ef6a08c.svg",
   "static/media/all.min.css": "/wp-login-react/static/media/fa-solid-900.ff8d9f8a.ttf"
 }
