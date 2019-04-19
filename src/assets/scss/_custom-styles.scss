@@ -5,6 +5,10 @@
         justify-content: space-evenly;
         margin: 0 -15px;
         padding: 3px 0;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        left: 0;
       }
       .tab-list-item {
         background-color: $default-color-dark;
@@ -19,5 +23,15 @@
     .formContainer {
         padding-top: 30px;
         max-width: 300px;
+    }
+}
+@include media-breakpoint-up(md) { 
+    .App {
+        .tab-list {
+            position: relative;
+        }
+        .formContainer {
+            padding-bottom: 50px;
+        }
     }
 }
