@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "dfe56a876d0282555d1e2458e278060f",
-    "url": "/wp-login-react/static/media/Roboto-Thin.dfe56a87.eot"
+    "revision": "954bbdeb86483e4ffea00c4591530ece",
+    "url": "/wp-login-react/static/media/Roboto-Thin.954bbdeb.woff2"
   },
   {
-    "revision": "50e6293dd8927ebcbf06",
-    "url": "/wp-login-react/static/css/main.48bf788a.chunk.css"
+    "revision": "8dbc2c05923b55926147",
+    "url": "/wp-login-react/static/css/main.975b1315.chunk.css"
   },
   {
     "revision": "53190b7a1b3cb99bb2c3",
@@ -48,24 +48,24 @@ self.__precacheManifest = [
     "url": "/wp-login-react/static/media/fa-regular-400.65b9977a.ttf"
   },
   {
-    "revision": "427d721b86fc9c68b2e85ad42b69238c",
-    "url": "/wp-login-react/static/media/fa-regular-400.427d721b.woff"
+    "revision": "5bf145531213545e03ff41cd27df7d2b",
+    "url": "/wp-login-react/static/media/fa-brands-400.5bf14553.svg"
   },
   {
-    "revision": "5eb754ab7dbd2fee562360528db4c3c0",
-    "url": "/wp-login-react/static/media/fa-regular-400.5eb754ab.svg"
+    "revision": "427d721b86fc9c68b2e85ad42b69238c",
+    "url": "/wp-login-react/static/media/fa-regular-400.427d721b.woff"
   },
   {
     "revision": "46e7cec623d8bd790d9fdbc8de2d3ee7",
     "url": "/wp-login-react/static/media/fa-solid-900.46e7cec6.eot"
   },
   {
-    "revision": "5bf145531213545e03ff41cd27df7d2b",
-    "url": "/wp-login-react/static/media/fa-brands-400.5bf14553.svg"
-  },
-  {
     "revision": "418dad87601f9c8abd0e5798c0dc1feb",
     "url": "/wp-login-react/static/media/fa-solid-900.418dad87.woff2"
+  },
+  {
+    "revision": "5eb754ab7dbd2fee562360528db4c3c0",
+    "url": "/wp-login-react/static/media/fa-regular-400.5eb754ab.svg"
   },
   {
     "revision": "a7140145ebaaf5fb14e40430af5d25c4",
@@ -80,11 +80,11 @@ self.__precacheManifest = [
     "url": "/wp-login-react/static/media/fa-solid-900.49279363.svg"
   },
   {
-    "revision": "954bbdeb86483e4ffea00c4591530ece",
-    "url": "/wp-login-react/static/media/Roboto-Thin.954bbdeb.woff2"
+    "revision": "dfe56a876d0282555d1e2458e278060f",
+    "url": "/wp-login-react/static/media/Roboto-Thin.dfe56a87.eot"
   },
   {
-    "revision": "50e6293dd8927ebcbf06",
+    "revision": "8dbc2c05923b55926147",
     "url": "/wp-login-react/static/js/main.2c7b7721.chunk.js"
   },
   {
@@ -92,12 +92,12 @@ self.__precacheManifest = [
     "url": "/wp-login-react/static/media/Roboto-Thin.7500519d.woff"
   },
   {
-    "revision": "a990f611f2305dc12965f186c2ef2690",
-    "url": "/wp-login-react/static/media/Roboto-Light.a990f611.eot"
-  },
-  {
     "revision": "94998475f6aea65f558494802416c1cf",
     "url": "/wp-login-react/static/media/Roboto-Thin.94998475.ttf"
+  },
+  {
+    "revision": "a990f611f2305dc12965f186c2ef2690",
+    "url": "/wp-login-react/static/media/Roboto-Light.a990f611.eot"
   },
   {
     "revision": "69f8a0617ac472f78e45841323a3df9e",
@@ -108,12 +108,12 @@ self.__precacheManifest = [
     "url": "/wp-login-react/static/media/Roboto-Light.3b813c2a.woff"
   },
   {
-    "revision": "46e48ce0628835f68a7369d0254e4283",
-    "url": "/wp-login-react/static/media/Roboto-Light.46e48ce0.ttf"
-  },
-  {
     "revision": "30799efa5bf74129468ad4e257551dc3",
     "url": "/wp-login-react/static/media/Roboto-Regular.30799efa.eot"
+  },
+  {
+    "revision": "46e48ce0628835f68a7369d0254e4283",
+    "url": "/wp-login-react/static/media/Roboto-Light.46e48ce0.ttf"
   },
   {
     "revision": "2751ee43015f9884c3642f103b7f70c9",
@@ -124,12 +124,12 @@ self.__precacheManifest = [
     "url": "/wp-login-react/static/media/Roboto-Regular.ba3dcd89.woff"
   },
   {
-    "revision": "df7b648ce5356ea1ebce435b3459fd60",
-    "url": "/wp-login-react/static/media/Roboto-Regular.df7b648c.ttf"
-  },
-  {
     "revision": "4d9f3f9e5195e7b074bb63ba4ce42208",
     "url": "/wp-login-react/static/media/Roboto-Medium.4d9f3f9e.eot"
+  },
+  {
+    "revision": "df7b648ce5356ea1ebce435b3459fd60",
+    "url": "/wp-login-react/static/media/Roboto-Regular.df7b648c.ttf"
   },
   {
     "revision": "574fd0b50367f886d359e8264938fc37",
@@ -140,12 +140,12 @@ self.__precacheManifest = [
     "url": "/wp-login-react/static/media/Roboto-Medium.fc78759e.woff"
   },
   {
-    "revision": "894a2ede85a483bf9bedefd4db45cdb9",
-    "url": "/wp-login-react/static/media/Roboto-Medium.894a2ede.ttf"
-  },
-  {
     "revision": "ecdd509cadbf1ea78b8d2e31ec52328c",
     "url": "/wp-login-react/static/media/Roboto-Bold.ecdd509c.eot"
+  },
+  {
+    "revision": "894a2ede85a483bf9bedefd4db45cdb9",
+    "url": "/wp-login-react/static/media/Roboto-Medium.894a2ede.ttf"
   },
   {
     "revision": "39b2c3031be6b4ea96e2e3e95d307814",
@@ -168,7 +168,7 @@ self.__precacheManifest = [
     "url": "/wp-login-react/static/css/2.fb8b118e.chunk.css"
   },
   {
-    "revision": "07d53dfbd111d141ab18fb296db06b86",
+    "revision": "c35387d26c2203f981f8d7ce3de46d01",
     "url": "/wp-login-react/index.html"
   }
 ];
