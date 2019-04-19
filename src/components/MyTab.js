@@ -25,16 +25,16 @@ class MyTab extends Component {
     let className = 'tab-list-item';
 
     if (activeTab === label) {
-      className += ' tab-list-active';
+      className += ' active';
     }
 
     return (
-      <li
+      <span
         className={className}
         onClick={onClick}
       >
         {label}
-      </li>
+      </span>
     );
   }
 }

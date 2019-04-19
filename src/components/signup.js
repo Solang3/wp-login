@@ -6,7 +6,7 @@ const SignUpForm = () => {
     <MDBContainer className="formContainer">
       <MDBRow>
         <MDBCol md="6">
-            <form>
+          <form>
             <p className="h5 text-center py-4">Sign up</p>
             <div className="grey-text">
                 <MDBInput

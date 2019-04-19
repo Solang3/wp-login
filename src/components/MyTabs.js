@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-
+import { MDBNav, MDBNavLink, MDBContainer, MDBRow, MDBCol } from "mdbreact";
 import MyTab from './MyTab';
 
 class MyTabs extends Component {
@@ -32,28 +32,33 @@ class MyTabs extends Component {
     } = this;
 
     return (
-      <div className="tabs">
-        <ol className="tab-list">
-          {children.map((child) => {
-            const { label } = child.props;
-
-            return (
-              <MyTab
-                activeTab={activeTab}
-                key={label}
-                label={label}
-                onClick={onClickTabItem}
-              />
-            );
-          })}
-        </ol>
-        <div className="tab-content">
-          {children.map((child) => {
-            if (child.props.label !== activeTab) return undefined;
-            return child.props.children;
-          })}
-        </div>
-      </div>
+      <MDBContainer>
+        <MDBRow>
+          <MDBCol size="12">
+            <MDBNav className="tab-list">
+                {children.map((child) => {
+                  const { label } = child.props;
+                  return (
+                    <MDBNavLink active to="#!" className="tab">
+                      <MyTab
+                        activeTab={activeTab}
+                        key={label}
+                        label={label}
+                        onClick={onClickTabItem}
+                      />
+                    </MDBNavLink>
+                    );
+                  })}
+            </MDBNav>
+            <MDBContainer>
+              {children.map((child) => {
+                if (child.props.label !== activeTab) return undefined;
+                return child.props.children;
+              })}
+            </MDBContainer>
+          </MDBCol>
+        </MDBRow>
+      </MDBContainer>
     );
   }
 }
