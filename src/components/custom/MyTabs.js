@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { MDBNav, MDBContainer } from "mdbreact";
-import MyTab from './MyTab';
+import MyTab from './MyTab'
 
 class MyTabs extends Component {
   static propTypes = {
