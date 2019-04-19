@@ -13,6 +13,7 @@
         text-align: center;
         &.active {
             background-color: $default-color;
+            margin: 0 5px;
         }
       }
     .formContainer {
