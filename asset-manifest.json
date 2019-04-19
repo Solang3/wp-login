@@ -1,17 +1,17 @@
 {
-  "main.css": "/wp-login-react/static/css/main.b7a40b2c.chunk.css",
-  "main.js": "/wp-login-react/static/js/main.b4feb704.chunk.js",
-  "main.js.map": "/wp-login-react/static/js/main.b4feb704.chunk.js.map",
+  "main.css": "/wp-login-react/static/css/main.aa5d2040.chunk.css",
+  "main.js": "/wp-login-react/static/js/main.8395bf03.chunk.js",
+  "main.js.map": "/wp-login-react/static/js/main.8395bf03.chunk.js.map",
   "runtime~main.js": "/wp-login-react/static/js/runtime~main.fa12bf52.js",
   "runtime~main.js.map": "/wp-login-react/static/js/runtime~main.fa12bf52.js.map",
   "static/css/2.fb8b118e.chunk.css": "/wp-login-react/static/css/2.fb8b118e.chunk.css",
   "static/js/2.d398a821.chunk.js": "/wp-login-react/static/js/2.d398a821.chunk.js",
   "static/js/2.d398a821.chunk.js.map": "/wp-login-react/static/js/2.d398a821.chunk.js.map",
   "index.html": "/wp-login-react/index.html",
-  "precache-manifest.81cb355084214474acade6eca1aa7b59.js": "/wp-login-react/precache-manifest.81cb355084214474acade6eca1aa7b59.js",
+  "precache-manifest.3739c97e1fdb7d6e5f562c28b865c997.js": "/wp-login-react/precache-manifest.3739c97e1fdb7d6e5f562c28b865c997.js",
   "service-worker.js": "/wp-login-react/service-worker.js",
   "static/css/2.fb8b118e.chunk.css.map": "/wp-login-react/static/css/2.fb8b118e.chunk.css.map",
-  "static/css/main.b7a40b2c.chunk.css.map": "/wp-login-react/static/css/main.b7a40b2c.chunk.css.map",
+  "static/css/main.aa5d2040.chunk.css.map": "/wp-login-react/static/css/main.aa5d2040.chunk.css.map",
   "static/media/mdb.scss": "/wp-login-react/static/media/arrow_right.8ef6a08c.svg",
   "static/media/all.min.css": "/wp-login-react/static/media/fa-solid-900.ff8d9f8a.ttf"
 }
