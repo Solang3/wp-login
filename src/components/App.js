@@ -1,15 +1,16 @@
 import React, { Component } from 'react';
-import { MDBContainer } from 'mdbreact';
-import LogInForm from './login';
-import SignUpForm from './signup';
+import { BrowserRouter } from 'react-router-dom';
+import { MDBContainer } from "mdbreact";
+import TabsLayout from './TabsLayout';
 
 class App extends Component {
   render() {
     return (
-      <MDBContainer className="App">
-        <LogInForm />
-        <SignUpForm />
-      </MDBContainer>
+      <BrowserRouter>
+        <MDBContainer className="App">
+          <TabsLayout />
+        </MDBContainer>
+      </BrowserRouter>
     );
   }
 }
