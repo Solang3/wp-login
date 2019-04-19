@@ -5,7 +5,7 @@ const LogInForm = () => {
   return (
     <MDBContainer className="formContainer">
       <MDBRow>
-        <MDBCol md="6">
+        <MDBCol>
           <form>
             <p className="h5 text-center py-4">Log in</p>
             <div className="grey-text">

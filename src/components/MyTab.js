@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { MDBNavLink } from "mdbreact";
 import PropTypes from 'prop-types';
 
 class MyTab extends Component {
@@ -29,12 +30,9 @@ class MyTab extends Component {
     }
 
     return (
-      <span
-        className={className}
-        onClick={onClick}
-      >
+      <MDBNavLink to="#!" className={className} onClick={onClick}>
         {label}
-      </span>
+      </MDBNavLink>
     );
   }
 }

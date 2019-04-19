@@ -3,12 +3,10 @@
     .tab-list {
         background-color: $default-color-dark;
         justify-content: space-evenly;
+        margin: 0 -15px;
+        padding: 3px 0;
       }
       .tab-list-item {
-        display: inline-block;
-        list-style: none;
-        margin-bottom: -1px;
-        padding: 0.5rem 0.75rem;
         background-color: $default-color-dark;
         color: $white;
         &.active {
@@ -17,5 +15,6 @@
       }
     .formContainer {
         padding-top: 30px;
+        max-width: 300px;
     }
 }
