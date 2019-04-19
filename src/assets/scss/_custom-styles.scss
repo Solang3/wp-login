@@ -9,6 +9,8 @@
       .tab-list-item {
         background-color: $default-color-dark;
         color: $white;
+        flex-grow: 1;
+        text-align: center;
         &.active {
             background-color: $default-color;
         }
