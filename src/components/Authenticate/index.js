@@ -1,10 +1,10 @@
 import React, { Component } from "react";
-import MyTabs from '../custom/MyTabs';
+import MyTabs from '../Layout/MyTabs';
 import LogInForm from './LogIn';
 import SignUpForm from './SignUp';
 
 
-class LoginTabsLayout extends Component {
+class Authenticate extends Component {
 
 render() {
   return (
@@ -20,4 +20,4 @@ render() {
   }
 }
 
-export default LoginTabsLayout;
+export default Authenticate;

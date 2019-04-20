@@ -7,7 +7,6 @@ const LogInForm = () => {
       <MDBRow>
         <MDBCol>
           <form>
-            <p className="h5 text-center py-4">Log in</p>
             <div className="grey-text">
               <MDBInput
                 label="Type your email"
@@ -27,9 +26,15 @@ const LogInForm = () => {
               />
             </div>
             <div className="text-center">
-            <MDBBtn>Login</MDBBtn>
-          </div>
-        </form>
+                <MDBBtn>Login</MDBBtn>
+                <p className="font-small d-flex justify-content-center pt-3 mt-3 pb-3">
+                  Forgot
+                  <a href="#!" className="ml-1">
+                    Password?
+                  </a>
+                </p>
+            </div>
+          </form>
         </MDBCol>
       </MDBRow>
     </MDBContainer>
